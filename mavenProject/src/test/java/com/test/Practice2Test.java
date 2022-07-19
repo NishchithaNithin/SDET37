@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 			public void test2() 
 		 {
 			 Reporter.log("test2",true);
+				//hello
 		 } 
 				 }
 
